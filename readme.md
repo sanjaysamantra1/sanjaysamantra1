@@ -1,17 +1,14 @@
- 
+# Hi 👋, I'm Sanjay Kumar Samantra
+
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:175CD3,100:12B76A&height=230&section=header&text=Sanjay%20Kumar%20Samantra&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MEAN%20%26%20MERN%20Stack%20Developer%20%7C%20Architect&descAlignY=56&descSize=17"
-    alt="Sanjay Kumar Samantra - MEAN and MERN Stack Developer and Architect"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:175CD3,100:12B76A&height=230&section=header&text=Sanjay%20Kumar%20Samantra&fontSize=36&fontColor=ffffff&animation=fadeIn"
+    alt="Sanjay Kumar Samantra - Developer Banner"
     width="100%"
   />
 </p>
-
-<!-- ===================== INTRODUCTION ===================== -->
-
-<h1 align="center">Hi 👋, I'm Sanjay Kumar Samantra</h1>
 
 <h3 align="center">
   MEAN & MERN Stack Developer | Software Developer | Architect
@@ -35,37 +32,33 @@
 - 🌱 Exploring modern JavaScript technologies and development practices
 - 🧩 Interested in problem-solving, clean code, and reusable architecture
 - 📍 Based in Bengaluru, India
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sanjay-kumar-samantra/)
+- 🤝 Open to connecting with developers and technology enthusiasts
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Technology Stack
 
-<h2 align="center">🛠️ Technology Stack</h2>
-
-<h3 align="center">Frontend Development</h3>
+### Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" alt="HTML CSS JavaScript TypeScript React Angular Bootstrap" />
 </p>
 
-<h3 align="center">Backend Development</h3>
+### Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Node.js Express Java" />
 </p>
 
-<h3 align="center">Database & Tools</h3>
+### Database & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" alt="Database and development tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,npm" alt="MongoDB MySQL Git GitHub VS Code Postman npm" />
 </p>
 
 ---
 
-<!-- ===================== DEVELOPMENT INTERESTS ===================== -->
-
-<h2 align="center">💡 Development Interests</h2>
+## 💡 Areas of Interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Development-175CD3?style=for-the-badge" alt="Frontend Development" />
@@ -83,9 +76,7 @@
 
 ---
 
-<!-- ===================== FEATURED REPOSITORIES ===================== -->
-
-<h2 align="center">📚 Featured Repositories</h2>
+## 📚 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/sanjaysamantra1/javascript_programs">
@@ -104,112 +95,4 @@
 
 <p align="center">
   <a href="https://github.com/sanjaysamantra1?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-175CD3?style=for-the-badge&logo=github" alt="Explore repositories" />
-  </a>
-</p>
-
----
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-<h2 align="center">🏆 Certifications</h2>
-
-- **Oracle Certified Professional, Java SE 6 Programmer** — Oracle (2017)
-- **Scrum Fundamentals Certified (SFC)** — SCRUMstudy (2020)
-- **JavaScript Algorithms and Data Structures** — freeCodeCamp (2020)
-- **Responsive Web Design** — freeCodeCamp (2020)
-
----
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-<h2 align="center">🌟 Awards & Recognition</h2>
-
-<p align="center">
-  🏅 <b>Pace Setter Award</b> — January 2023
-  <br />
-  🏅 <b>Impact Award (Bravo)</b>
-</p>
-
----
-
-<!-- ===================== PUBLICATION ===================== -->
-
-<h2 align="center">📖 Research Publication</h2>
-
-<p align="center">
-  <b>Characteristic Specific Prioritized Dynamic Average Burst Round Robin Scheduling for Uniprocessor and Multiprocessor Environment</b>
-  <br />
-  International Journal of Computer Science, Engineering and Applications (IJCSEA)
-  <br />
-  October 2015
-</p>
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sanjaysamantra1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysamantra1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sanjaysamantra1&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</p>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-kumar-samantra/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sanjaysamantra1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:175CD3,100:12B76A&height=110&section=footer"
-    alt="Profile footer"
-    width="100%"
-  />
-</p>
+    <img src="https://img.shields.io/badge
